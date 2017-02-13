@@ -1,4 +1,4 @@
-### Workflow
+## Workflow
 
 1. First, extract variable names for a 561-feature vector with time and frequency domain variables from the file "features.txt"    
 2. Created 2 vectors containing positions of any variables with names containing "-std" and "mean", respecitively. 
@@ -15,11 +15,11 @@ These data frames contain 561-feature vectors, subject numbers and activity numb
 11. Grouped the data set by subject and activity and summarized all other columns using mean function.
 12. Output the data set as "output.txt"
 
-### Variable Description
+## Variable Description
 
 1. **Descriptive variables.**
-+ ***subject***     - volunteer number (1..30)
-+ ***activity***           - factor variable which indicates activity performed by the volunteer 
+ ***subject***     - volunteer number (1..30)
+ ***activity***           - factor variable which indicates activity performed by the volunteer 
         
         WALKING
         WALKING_UPSTAIRS
