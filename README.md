@@ -1,8 +1,8 @@
 ### Contents
 
-* ReadMe.md             - this file
+* README.md             - this file
 * run_analysis.R        - R script
-* CodeBook.md           - description of the data processing process and variables
+* CODEBOOK.md           - description of the data processing process and variables
 
 ### How to run the script
 * Download the zip archive from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
