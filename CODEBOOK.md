@@ -19,9 +19,9 @@ These data frames contain 561-feature vectors, subject numbers and activity numb
 
 1. **Descriptive variables.**
 
- ***subject***     - volunteer number (1..30)
+ **subject**     - volunteer number (1..30)
  
- ***activity***           - factor variable which indicates activity performed by the volunteer 
+ **activity**           - factor variable which indicates activity performed by the volunteer 
         
         WALKING
         WALKING_UPSTAIRS
